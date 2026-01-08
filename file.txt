@@ -1,1 +1,2 @@
 line1 in master
+Line2 in newfeature
