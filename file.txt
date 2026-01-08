@@ -1,3 +1,7 @@
 line1 in master
+<<<<<<< HEAD
 line3 in master
 
+=======
+Line2 in newfeature
+>>>>>>> new_feature
